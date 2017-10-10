@@ -1,0 +1,4 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Sun Oct 08 17:38:53 CST 2017
+default-http\://maven.oschina.net/content/groups/public/.lastUpdated=1507455533779
+http\://maven.oschina.net/content/groups/public/.error=Could not transfer artifact org.apache.maven.archetypes\:maven-archetype-webapp\:pom\:1.0 from/to oschina-nexus (http\://maven.oschina.net/content/groups/public/)\: connection timed out to http\://maven.oschina.net/content/groups/public/org/apache/maven/archetypes/maven-archetype-webapp/1.0/maven-archetype-webapp-1.0.pom
